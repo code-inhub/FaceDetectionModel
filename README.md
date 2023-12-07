@@ -13,5 +13,6 @@ This repository encompasses a comprehensive pipeline for face detection, annotat
 
 
 ## Demo
+![Screenshot 2023-11-03 015057](https://github.com/code-inhub/AgroTech/assets/95998892/fb5917dc-2b64-4135-8a86-6d0e483b4e46)
 
 ![Screenshot 2023-11-03 015337](https://github.com/code-inhub/AgroTech/assets/95998892/0f6a38c9-3f9d-4f35-a10e-b7733ccff9ce)
